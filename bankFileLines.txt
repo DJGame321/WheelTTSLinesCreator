@@ -1,0 +1,77 @@
+tmp6682332783298357585.wav: Now's your chance to steal the win, spin away little one
+o.wav: O
+allowMeToPresentYourRoomCode.wav: Allow me to present your room code
+s.wav: S
+w.wav: W
+v.wav: V
+tmp1163357529154291068.wav: It's your turn
+tmp8049019162933841086.wav: New spinner
+tmp3860295476343789104.wav: We're gonna start this spinning adventure with you
+tmp25795290665396305.wav: Go ahead and spin me one last time
+tmp7831397379288551573.wav: I'm ready for a new spinner
+p.wav: P
+tmp6694643129239325745.wav: You're up
+b.wav: B
+u.wav: U
+tmp437231173994419817.wav: Spin me, you've come all this way to answer this question
+tmp3682057721934857075.wav: You still have a chance next spinner so make this one count
+tmp4858065463929808531.wav: You're about to win the game don't let me down
+g.wav: G
+tmp8498303859030614457.wav: Hey how about a spin from a new spinner?
+tmp3478401016418716372.wav: You're ready new spinner?
+f.wav: F
+tmp1035092096747423928.wav: You can win right now
+tmp665744164333832868.wav: This could be, the winning spin
+tmp3482151544170531558.wav: Make this one count last spinner
+tmp841114310324621593.wav: You can win it right here
+tmp3116245745525532760.wav: With great consideration, I selected you to spin first
+d.wav: D
+theRoomCodeIs.wav: The room code is
+tmp3421826233898493405.wav: It's time for one last spin, the spin that will answer everything
+i.wav: I
+l.wav: L
+tmp8755600628095674171.wav: You can still win this one next spinner show me what you got
+y.wav: Y
+tmp298652308060063390.wav: The last spin duties fall on your oh so small shoulders
+tmp1394302134981637734.wav: Go on, you're one spin away from the truth you seek
+tmp7425590938186438810.wav: Why don't you start things off?
+j.wav: J
+x.wav: X
+tmp68610125102562376.wav: It's not too late to snatch victory from the jaws of defeat
+tmp3168871066434819747.wav: Now's your chance to steal the win next spinner
+tmp7311805071991784806.wav: The first spinner in this round, well that's you silly
+tmp441710634667256592.wav: You ready for a new spinner cause I sure am
+c.wav: C
+h.wav: H
+n.wav: N
+tmp6648637577033682642.wav: This last spin is up to you
+tmp5262355416720566027.wav: Since you're already here I'd like you to spin me
+tmp3215206225450595864.wav: You got to spin me one last time now
+tmp435278045172258441.wav: Spin like its your last spin of the round
+q.wav: Q
+tmp8489103221936158976.wav: Next spinner
+knowWhatTimeItIs.wav: Know what time it is it's time for a room code
+tmp2678769512677430432.wav: The next spinner is already standing beside me
+lookingForARoomCodeIts.wav: Looking for a room code, it's
+z.wav: Z
+a.wav: A
+tmp7781337283616207289.wav: It's your time to shine
+forYourEnjoyment.wav: For your enjoyment here's the room code
+tmp5655702150704933254.wav: You can still win next spinner so make this a good one
+tmp666528040193890376.wav: This could be the very last spin of the game
+tmp1212076243634576299.wav: Oh you're already up here, how about a spin
+tmp5619697472848779853.wav: The last spin is all in your tiny meeple hands
+m.wav: M
+tmp3252052907839143016.wav: Oh how I'd dream that you'd be our first spinner
+tmp7314666124330428663.wav: I had a feeling you'd be our last spinner
+tmp4229536379632155185.wav: It's not too late for you next spinner show me what you're made of
+tmp2072631085556079600.wav: While you're up here, you might as well give me a spin
+r.wav: R
+e.wav: E
+tmp7639662628698491399.wav: Spin me one last time, and know the truth
+tmp4410198808392942068.wav: The meeple by my side is the next spinner
+tmp6127536466317094964.wav: The first spin of the round goes to you
+k.wav: K
+tmp3025334036387948226.wav: While you're up here, you might as well give me a spin
+t.wav: T
+tmp3403912047056163483.wav: Will this be the winning spin, put your back into it
