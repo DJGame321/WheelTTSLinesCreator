@@ -1,0 +1,77 @@
+tmp6682332783298357585.wav: Keep the trolling going, spin me little meeple
+o.wav: O
+allowMeToPresentYourRoomCode.wav: Feed my troll needs, enter
+s.wav: S
+w.wav: W
+v.wav: V
+tmp1163357529154291068.wav: It's your turn
+tmp8049019162933841086.wav: New spinner
+tmp3860295476343789104.wav: May the trolling begin with this meeple.
+tmp25795290665396305.wav: Go ahead and spin me one last time
+tmp7831397379288551573.wav: I'm ready for a new spinner
+p.wav: P
+tmp6694643129239325745.wav: You're up
+b.wav: B
+u.wav: U
+tmp437231173994419817.wav: Spin me, I promise this will be worth it
+tmp3682057721934857075.wav: The trolling must continue, keep spinning me
+tmp4858065463929808531.wav: Land on a skull slice I dare you
+g.wav: G
+tmp8498303859030614457.wav: The troll wheel needs another spin from you
+tmp3478401016418716372.wav: Another spinner please.
+f.wav: F
+tmp1035092096747423928.wav: Good luck
+tmp665744164333832868.wav: Will my trolling end right here?
+tmp3482151544170531558.wav: This troll e spin is yours
+tmp841114310324621593.wav: $20 you won't win here
+tmp3116245745525532760.wav: You are the first sacrifice I mean meeple, meeple is what I said
+d.wav: D
+theRoomCodeIs.wav: The room code is
+tmp3421826233898493405.wav: Spin me little one, I promise you'll get the truth you seek
+i.wav: I
+l.wav: L
+tmp8755600628095674171.wav: My trolling gears must keep turning, keep spinning me
+y.wav: Y
+tmp298652308060063390.wav: Who's gonna get trolled, let's find out
+tmp1394302134981637734.wav: Spin me and I'll tell you the truth, or will I?
+tmp7425590938186438810.wav: My trolling starts with you
+j.wav: J
+x.wav: X
+tmp68610125102562376.wav: My trolling is not over yet, keep going!
+tmp3168871066434819747.wav: Now's your chance to land on a skull spinner
+tmp7311805071991784806.wav: My trolling spree begins with the spinner beside me
+tmp441710634667256592.wav: I need a new spinner for my troll needs
+c.wav: C
+h.wav: H
+n.wav: N
+tmp6648637577033682642.wav: This troll spin is yours
+tmp5262355416720566027.wav: Hey you, spin me
+tmp3215206225450595864.wav: I promise this is the last spin
+tmp435278045172258441.wav: Spin like its your max troll spin
+q.wav: Q
+tmp8489103221936158976.wav: Next spinner
+knowWhatTimeItIs.wav: Enter this room code if you dare
+tmp2678769512677430432.wav: I'm lazy, stay up here and spin
+lookingForARoomCodeIts.wav: This is your troll code
+z.wav: Z
+a.wav: A
+tmp7781337283616207289.wav: It's your time to troll
+forYourEnjoyment.wav: Join me on this trolling adventure, type
+tmp5655702150704933254.wav: Don't make this trolling adventure stop, spin me!
+tmp666528040193890376.wav: Land on a skull slice, I dare you
+tmp1212076243634576299.wav: Hey you, give me a spin
+tmp5619697472848779853.wav: Who's gonna get trolled, spin me to find out
+m.wav: M
+tmp3252052907839143016.wav: I dreamed that my trolling would start with you
+tmp7314666124330428663.wav: I want you to finish the trolling
+tmp4229536379632155185.wav: Keep this up, there's more trolling yet to come
+tmp2072631085556079600.wav: You know what, you spin me now
+r.wav: R
+e.wav: E
+tmp7639662628698491399.wav: Spin me one last time, and know the truth
+tmp4410198808392942068.wav: The meeple by my side continues the trolling
+tmp6127536466317094964.wav: The troll spins start with you
+k.wav: K
+tmp3025334036387948226.wav: While you're up here, I want you to troll
+t.wav: T
+tmp3403912047056163483.wav: It's either end the trolling here or skull, let's find out
